@@ -45,7 +45,7 @@ The **Fitness Slot Booking System** is a full-stack web application that allows 
    ```bash
    git clone <repository-url>
    cd fitness-slot-booking-backend
-2. **Install dependencies:
+2. Install dependencies:
      ```bash
     npm install
     
