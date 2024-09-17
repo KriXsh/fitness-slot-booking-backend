@@ -10,7 +10,7 @@ The **Fitness Slot Booking System** is a full-stack web application that allows 
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 - [Installation and Setup](#installation-and-setup)
-- [Environment Variables](#environment-variables)
+- [Environment Variables](#environment-variables)  
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
 - [Future Improvements](#future-improvements)
